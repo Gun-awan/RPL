@@ -1,4 +1,4 @@
-<?php
+<!-- <?php
     include "db/database.php";
 
     $error = "";
@@ -65,4 +65,4 @@
     </div>
     
 </body>
-</html>
+</html> -->
